@@ -7,4 +7,4 @@ mann
 ##### NetBeans
 ========
 
-Easy to set-up fresh new Debian platform (Debian or Ubuntu) OS with NetBeans, nodejs, MongoDB, mongo replica's and apache
+Easy to set-up fresh new Debian (**Debian** or **Ubuntu**) platform OS with NetBeans, NodeJS, MongoDB, MongoDB replicas and Apache.
